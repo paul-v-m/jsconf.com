@@ -25,7 +25,6 @@
     name: JSConf EU
     site: https://2019.jsconf.eu
     logo: images/jsconf_eu.png
-    status: onsale
 
 # JSConf US
 - jsconfus:
@@ -39,7 +38,6 @@
     name: JSConf Budapest
     site: http://jsconfbp.com
     logo: images/jsconf_bp.png
-    status: onsale opencfp
 
 # JSConf HI
 - jsconfhi:
